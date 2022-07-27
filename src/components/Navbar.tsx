@@ -9,7 +9,6 @@ const Navbar = () => {
           <span className="text-dark fw-bold mr-2">
             <u>ATIX LABS</u>
           </span>
-          Challenge
         </NavLink>
         <button
           className="navbar-toggler"
